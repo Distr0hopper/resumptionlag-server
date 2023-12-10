@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cerg.mpmgame.server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cerg.mpmgame.server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/client-interruption.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/client-interruption.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/client-manual.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/client-manual.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/resumption-lag-pills-main.iml" filepath="$PROJECT_DIR$/.idea/resumption-lag-pills-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/server.test.iml" />
+    </modules>
+  </component>
+</project>
